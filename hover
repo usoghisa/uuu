@@ -5,7 +5,8 @@
 <style>
 .container {
   position: relative;
-  width: 400px;
+  width: 200px;
+  height: 200px;
 }
 
 .image {
@@ -61,7 +62,6 @@
 
 <div class="container">
   <img src="https://via.placeholder.com/800x800.png?text=Visit+WhoIsHostingThis.com+Buyers+Guide
-
 C/O https://placeholder.com/" alt="Avatar" class="image">
 
   <div class="overlay2">
@@ -72,6 +72,24 @@ C/O https://placeholder.com/" alt="Avatar" class="image">
     <div class="text">Hello World</div>
   </div>
 </div>
+<br/>
+<div class="container">
+  <img src="https://via.placeholder.com/800x800.png?text=Visit+WhoIsHostingThis.com+Buyers+Guide
+C/O https://placeholder.com/" alt="Avatar" class="image">
+
+  <div class="overlay2">
+    <div class="text">Hello World</div>
+  </div>
+  
+  <div class="overlay">
+    <div class="text">Hello World</div>
+  </div>
+</div>
+
+
+
+
+
 
 </body>
 </html>
